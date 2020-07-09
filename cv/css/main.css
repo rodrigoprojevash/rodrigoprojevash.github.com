@@ -1,0 +1,13 @@
+.vinculos li{
+    background: whitesmoke;
+    display: inline-block ;
+    float: right;
+    margin: 0;
+    width: 33.33333%;
+}
+.vinculos li a{
+  border:blue 2px dashed;
+}
+header{
+  background-color: #0069cc;color: white;text-align: center;padding: 14px;
+}
